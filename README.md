@@ -1,17 +1,4 @@
----
-library_name: transformers
-tags:
-- llama-factory
-license: apache-2.0
-datasets:
-- hon9kon9ize/yue-alpaca
-- Nin8520/words
-language:
-- zh
-- en
-base_model:
-- Qwen/Qwen2.5-7B-Instruct
----
+
 
 
 ## Model Details
